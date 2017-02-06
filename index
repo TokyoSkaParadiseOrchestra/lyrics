@@ -1,10 +1,133 @@
-<!DOCTYPE html>
+<!DOCTYPE HTML>
 <html>
-  <head>
-    <meta charset="utf-8">
-    <title>Tokyo Ska Paradise Orchestra</title>
-  </head>
-  <body>
-    <h1>Github</h1>
-  </body>
-</html>
+    <head>
+        <title>GIF</title>
+    </head>
+    <body>
+        <img src="Opgave/Rotating_earth_(large).gif" alt="gif" width="50" height="50">
+        <section>
+            <table>
+                <tr>
+                    <td></td>
+                    <th scope="col">January</th>
+                    <th scope="row">February</th>
+                </tr>
+                <tr>
+                    <th scope="row">apples</th>
+                    <td>15.342</td>
+                    <td>12.352</td>
+                </tr>
+                <tr>
+                    <th scope="row">oranges</th>
+                    <td>12.298</td>
+                    <td>9.345</td>
+                </tr>
+            </table>
+            <table>
+                <thead>
+                    <tr>
+                        <th scope="col" colspan="2">Naam</th>
+                        <th scope="col">Leeftijd</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Chris</td>
+                        <td>vdp</td>
+                        <td>15</td>
+                    </tr>
+                     <tr>
+                        <td>Tuna</td>
+                        <td>Luna</td>
+                        <td>12</td>
+                    </tr> 
+                    <tr>
+                        <td>John</td>
+                        <td>Bricket</td>
+                        <td>14</td>
+                    </tr>
+                     <tr>
+                        <td>Chris</td>
+                        <td>vdp</td>
+                        <td>15</td>
+                    </tr>
+                     <tr>
+                        <td>Tuna</td>
+                        <td>Luna</td>
+                        <td>12</td>
+                    </tr> 
+                    <tr>
+                        <td>John</td>
+                        <td>Bricket</td>
+                        <td>14</td>
+                    </tr>
+                     <tr>
+                        <td>Chris</td>
+                        <td>vdp</td>
+                        <td>15</td>
+                    </tr>
+                     <tr>
+                        <td>Tuna</td>
+                        <td>Luna</td>
+                        <td>12</td>
+                    </tr> 
+                    <tr>
+                        <td>John</td>
+                        <td>Bricket</td>
+                        <td>14</td>
+                    </tr>
+                     <tr>
+                        <td>Chris</td>
+                        <td>vdp</td>
+                        <td>15</td>
+                    </tr>
+                     <tr>
+                        <td>Tuna</td>
+                        <td>Luna</td>
+                        <td>12</td>
+                    </tr> 
+                    <tr>
+                        <td>John</td>
+                        <td>Bricket</td>
+                        <td>14</td>
+                    </tr>
+                </tbody>
+                <tfoot>
+                    <tr>
+                        <th>Totaal</th>
+                        <td rowspan="2">Grappig</td>
+                    </tr>
+                </tfoot>
+            </table>
+        </section>
+        <section>
+            <fieldset>
+                <legend>Persoonlijke gegevens</legend>
+                <ul>
+                    <li><label>Naam:</label><input type="text" name="naam"></li>
+                    <li><label>Adres:</label><input type="text" name="adres"></li>
+                    <li><label>Postcode:</label><input type="text" name="postcode"></li>
+                    <li><label>Woonplaats:</label><input type="text" name="woonplaats"></li>
+                    <li><label>Email:</label><input type="email" name="email"></li>
+                </ul>
+            </fieldset>
+            <fieldset>
+                <legend>Aanvullende informatie</legend>
+                <textarea cols="50" rows="5"></textarea>
+            </fieldset>
+            <input type="submit" value="Verzenden">
+        </section>
+        <section>
+            <ul>
+                <li>&amp;</li>
+                <li>&nbsp;5</li>
+                <li>&copy;</li>
+                <li>&lt;</li>
+                <li>&gt;</li>
+                <li>&euro;</li>
+                <li>&quot;</li>
+            </ul>
+        </section>
+        
+        
+        
